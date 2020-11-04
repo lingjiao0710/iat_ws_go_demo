@@ -29,10 +29,10 @@ import (
  */
 var (
 	hostUrl   = "wss://tts-api.xfyun.cn/v2/tts"
-	apiKey    = "372387ff45dd93f35b4fbf5ad80e1c36"
-	apiSecret = "82a3b6e3a2e730a92d049de56ec58923"
+	apiKey    = "你的KEY"
+	apiSecret = "你的secret"
 	file      = "test.mp3" //请填写您的音频文件路径
-	appid     = "5d162011"
+	appid     = "你的id"
 )
 
 const (
